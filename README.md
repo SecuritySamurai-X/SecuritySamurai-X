@@ -7,12 +7,12 @@ Welcome to my GitHub!! I'm a backend development enthusiast with hands-on skills
 
 # 🔧 Tech Stack
 
-Programming Languages - Python, JavaScript
-Web Development (Backend/Frameworks) - Django, Node.js, Express.js
-Databases - PostgreSQL, MongoDB 
-Cloud Platforms - Google Cloud
-Version Control - Git
-APIs & Testing Tools - Postman
+- Programming Languages - Python, JavaScript
+- Web Development (Backend/Frameworks) - Django, Node.js, Express.js
+- Databases - PostgreSQL, MongoDB 
+- Cloud Platforms - Google Cloud
+- Version Control - Git
+- APIs & Testing Tools - Postman
 <!--
 **SecuritySamurai-X/SecuritySamurai-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
